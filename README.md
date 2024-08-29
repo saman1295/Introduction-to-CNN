@@ -19,7 +19,7 @@ Similar to convolution layer, this comes with sweeping process. The only differe
 
 The most common form of poooling is max pooling which retains maximum value in teh selected perceptive field.
  
- ![MAX Pooling Layer]()
+ ![MAX Pooling Layer](https://github.com/saman1295/Introduction-to-CNN/blob/main/Max_pooling.jpeg)
 
 
  * This significantly reduces teh overall number of parameters and enhances the efficiency. 
