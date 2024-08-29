@@ -6,7 +6,7 @@ A CNN uses series of layers each of which detects diffrent features of an input 
 
 A typical CNN architecture contains Convolutional layer, pooling layer and fully connected/dense layer.
 
-![CNN architecture](./Introduction-to-CNN/CNN_architecture.jpeg)
+![CNN architecture](https://github.com/saman1295/Introduction-to-CNN/blob/main/CNN_architecture.jpeg)
 
 
 ### Convolutional Layer
@@ -20,7 +20,7 @@ Similar to convolution layer, this comes with sweeping process. The only differe
 
 The most common form of poooling is max pooling which retains maximum value in teh selected perceptive field.
  ---Image of max pooling
- ![](https://github.com/IvonaTau/ikea/blob/master/dataset_description.png)
+ ![]()
 
 
  * This significantly reduces teh overall number of parameters and enhances the efficiency. 
