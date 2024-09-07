@@ -37,3 +37,6 @@ CNN is defined by :
 - number of feature maps
 - receptive field 
 - stride
+
+
+Building a binary classifier using CNN which will classify cats and Dogs can be found  ` cat_dog_classification.ipynb`
