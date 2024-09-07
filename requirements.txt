@@ -6,3 +6,6 @@ scikit-learn==1.0.2
 numpy==1.26.4
 matplotlib
 PIL
+pandas
+numpy
+kaggle
