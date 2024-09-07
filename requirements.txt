@@ -9,3 +9,7 @@ PIL
 pandas
 numpy
 kaggle
+opencv-contrib-python
+opencv-contrib-python-headless
+opencv-python
+opencv-python-headless
